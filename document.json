@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "title": "My Document",
+    "modified": "2023-05-10"
+  },
+  "blocks": [
+    {
+      "type": "h1",
+      "text": "Chapter 1"
+    },
+    {
+      "type": "p",
+      "text": "Hello from external JSON"
+    },
+    {
+      "type": "checkbox",
+      "text": "Learn Flutter",
+      "checked": false
+    }
+  ]
+}
